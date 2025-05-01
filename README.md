@@ -1,6 +1,3 @@
-# odd-bird-art-website  
-A custom website developed for **Odd Bird Art**, a curated online gallery offering unique works of art and home décor from across Asia. Designed with a focus on accessibility, originality, and quality, the website enables an immersive, enjoyable online shopping experience.  
-
 # Odd Bird Art Website – [Live Website](https://oddbird.art/) 
 
 ---
